@@ -1,0 +1,5 @@
+Stripe.api_key = "sk_live_sk_live_51H2kZwFWFjTJvurOTT4rOQi9LzWqHt7QViapYjYKBON4iguoMLsOht2agp6gagi8eHM3HA4ayXpQ6yeYODg0OpMr004xg353aT"
+
+Stripe::ApplePayDomain.create({
+  domain_name: 'isabellla.com',
+})
